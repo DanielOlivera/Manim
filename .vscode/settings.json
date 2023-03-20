@@ -1,0 +1,27 @@
+{
+    "workbench.colorCustomizations": {
+        "editorLineNumber.foreground": "#00ff1e",
+        "activityBar.activeBackground": "#1798ee",
+        "activityBar.background": "#1798ee",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#fbc4e5",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#1798ee",
+        "statusBar.background": "#0e7bc4",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#1798ee",
+        "statusBarItem.remoteBackground": "#0e7bc4",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#0e7bc4",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#0e7bc499",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "python.defaultInterpreterPath": "C:/Users/dell_/anaconda3/envs/venv/python.exe",
+    "terminal.integrated.cwd": "${fileDirname}",
+    "python.terminal.executeInFileDir": true,
+    "manim-sideview.runOnSave": true,
+    "peacock.color": "#0e7bc4"
+}
