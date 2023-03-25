@@ -4,6 +4,7 @@ import numpy as np
 import dlib
 import imutils
 from scipy.spatial import distance
+import pickle
 
 def calculate_OAR(outline):
     A = distance.euclidean(outline[0], outline[1])
